@@ -1,0 +1,25 @@
+==============================================================================
+Test5                                                                         
+==============================================================================
+Agent Single Campaign Selection :: Agent single Campaign selection...   
+  Traceback (most recent call last):
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    File  /Users/monikagurg/PycharmProjects/QATraningRobotFramework/TestCases/Test5.robot:33
+    T:  Agent Single Campaign Selection    
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    File  /Users/monikagurg/PycharmProjects/QATraningRobotFramework/TestCases/Test5.robot:6
+      start and maximize browser    
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    File  /Users/monikagurg/PycharmProjects/QATraningRobotFramework/Resources/BaseKeywords.robot:8
+      Open Browser    ${url}    ${browser}
+      |  ${url} = https://validation.ameyo.com:8443/app (str)
+      |  ${browser} = chrome (str)
+______________________________________________________________________________
+| FAIL |
+Setup failed:
+NoSuchDriverException: Message: Unable to obtain driver for chrome using Selenium Manager.; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+------------------------------------------------------------------------------
+Test5                                                                 | FAIL |
+1 test, 0 passed, 1 failed
+==============================================================================
+Output:  /Users/monikagurg/PycharmProjects/QATraningRobotFramework/Results/pabot_results/0/output.xml

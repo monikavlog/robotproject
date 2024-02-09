@@ -1,0 +1,25 @@
+1705746491833	geckodriver	INFO	Listening on 127.0.0.1:56109
+1705746491886	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/Use ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/48/5wg_f2v969q8bmbqgbgzf3qh0000gn/T/rust_mozprofileO22MDW"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1705746519782	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1705746520643	Marionette	INFO	Listening on port 56123
+Read port: 56123
+2024-01-20 15:58:40.718 plugin-container[21983:3401235] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-01-20 15:58:40.719 plugin-container[21983:3401235] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://127.0.0.1:56110
+1705746520834	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+2024-01-20 15:58:41.127 plugin-container[21983:3401235] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-01-20 15:58:41.127 plugin-container[21983:3401235] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-01-20 15:58:41.127 plugin-container[21983:3401356] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-01-20 15:58:41.127 plugin-container[21983:3401356] nil host used in call to allowsAnyHTTPSCertificateForHost:
+DevTools listening on ws://127.0.0.1:56110/devtools/browser/e5c1e0ab-47f6-417c-9d0f-3988d015946b
+2024-01-20 10:28:43.056 plugin-container[22000:3401562] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-01-20 10:28:43.057 plugin-container[22000:3401562] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-01-20 10:28:43.068 plugin-container[22000:3401562] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-01-20 10:28:43.068 plugin-container[22000:3401562] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-01-20 10:28:43.068 plugin-container[22000:3401568] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-01-20 10:28:43.069 plugin-container[22000:3401568] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1705746549833	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1705746615358	Marionette	INFO	Stopped listening on port 56123
